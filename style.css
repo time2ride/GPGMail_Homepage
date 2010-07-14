@@ -96,9 +96,10 @@ a:hover {
 }
 
 #head_image {
-	height: 150px;
-	background: url(images/head_bckg.jpg) no-repeat #fe5d00;
-	padding: 30px 0 30px 50px;
+	height: 122px;
+	background: url(images/GPGMail.gif) no-repeat #fe5d00;
+	background-position: left;
+	padding: 0px 0 0px 160px;
 	line-height: 24px;
 }
 
@@ -106,6 +107,7 @@ a:hover {
 	color: #fff;
 	font-family: "Arial Narrow", Arial, Tahoma;
 	font-size: 21px;
+	padding-top: 15px;
 	/*text-transform: uppercase;*/
 }
 
