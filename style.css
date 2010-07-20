@@ -8,10 +8,11 @@ body {
 
 a {
 	color: #fe5800;
+	text-decoration: none;
 }
 
 a:hover {
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 .orange {
@@ -130,6 +131,11 @@ a:hover {
 	font-size: 20px;
 	color: #000;
 	font-weight: normal;
+}
+
+#content h2 {
+	font-size: 15px;
+	font-weight: bold;
 }
 
 #text {
