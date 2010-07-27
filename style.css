@@ -112,18 +112,6 @@ a:hover {
 	/*text-transform: uppercase;*/
 }
 
-#download {
-	background: url(images/dl-bckg.gif) no-repeat #fe5d00;
-	position:  relative;
-	top: 0px;
-	right: 0px;
-	color: green;
-	font-family: "Arial Narrow", Arial, Tahoma;
-	font-size: 21px;
-	padding-top: 15px;
-	/*text-transform: uppercase;*/
-}
-
 #under_slogan_text {
 	color: #ffff00;
 	font-size: 10px;
