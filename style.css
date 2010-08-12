@@ -19,6 +19,10 @@ a:hover {
 	color: #fe5800;
 }
 
+.indent {
+	margin-left: 20px;
+}
+
 #header {
 	background: url(images/header_bckg.gif) repeat-x;
 	height: 120px;
