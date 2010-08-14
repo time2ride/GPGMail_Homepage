@@ -15,6 +15,10 @@ a:hover {
 	text-decoration: underline;
 }
 
+img {
+	border: 0;
+}
+
 .orange {
 	color: #fe5800;
 }
