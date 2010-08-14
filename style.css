@@ -108,6 +108,12 @@ a:hover {
 	line-height: 24px;
 }
 
+#download_text {
+	font-size: 19px;
+	font-weight: bold;
+	padding-bottom: 5px;
+}
+
 #slogan {
 	color: #fff;
 	font-family: "Arial Narrow", Arial, Tahoma;
